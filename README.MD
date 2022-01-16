@@ -3,3 +3,8 @@
 <a class="xd" href="https://ztho.pl/">Discord</a>
 <a class="xd" href="https://ztho.pl/">Twitter</a>
 <a class="xd" href="https://ztho.pl/">Instagram</a>
+<style>
+  xd {
+    text-align:center;
+  }
+</style>
