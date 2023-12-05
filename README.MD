@@ -1,3 +1,3 @@
 web developer @ FliskiDevs <br/>
-cusic Producer <br/>
+music Producer <br/>
 contact; @ztho1337
